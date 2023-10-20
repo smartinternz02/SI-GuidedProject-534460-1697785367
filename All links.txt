@@ -1,0 +1,15 @@
+HINDUSTHAN MCA
+
+Exploration created during Rathinam FDP IBM Faculty Buildathon
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FOnline%2BExploration&subView=model0000018b4192077d_00000000
+
+
+Dashboard created during Rathinam FDP IBM Faculty Buildathon
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FOnline%2B2&action=view&mode=dashboard&subView=model0000018b41a0b0c6_00000002
+
+
+Story created during Rathinam FDP IBM Buildathon
+
+https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FOnline%2BEducation%2Bstory&action=view&sceneId=model0000018b4201a609_00000000&sceneTime=0
